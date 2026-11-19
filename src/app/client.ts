@@ -1,4 +1,3 @@
-// client.ts
 import { createWalletClient, createPublicClient, custom } from 'viem';
 import { sepolia } from 'viem/chains';
 import 'viem/window';
